@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasseralsunni
+- 👋 Hi, I’m yasseralsunni working at IAU 
 - 👀 I’m interested in Finance
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on community service
